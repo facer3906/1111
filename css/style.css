@@ -1,0 +1,63 @@
+html,
+body,
+header,
+#intro {
+    height: 95%;
+}
+
+#intro {
+    background: url("/img/background.png")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+#intro1 {
+  height: 95%;
+}
+
+#intro1 {
+  background: url("/img/wushi2.png")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+#intro2 {
+  height: 95%;
+}
+
+#intro2 {
+  background: url("/img/sekiro3.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+#intro3 {
+  height: 95%;
+}
+
+#intro3 {
+  background: url("/img/tela2.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+.top-nav-collapse {
+  background-color: #000000;
+}
+.bgcolor{
+  background-color: #57d190;
+}
+.example1{
+  transform:scale(0.7) ;
+}
+.divcss5{
+  text-align:center
+} 
+.box{
+ 
+  border:solid 5px #a07a35;
+}
